@@ -27,7 +27,7 @@
 ## Let us visualise data for the players with highest Assists per game.
 ![](/Images/assist.png)
 
-## Let us visualise data for the players with highest Assists per game.
+## Let us visualise data for the players with highest 3 Pointer per game.
 ![](/Images/3p.png)
 - As expected we know that **Steph Curry is the best 3 point shooter in the History of NBA.**
 
